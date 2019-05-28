@@ -1,7 +1,7 @@
 export PYENV_ROOT="$HOME/.pyenv"
 export PATH="$PYENV_ROOT/bin:$PATH"
 eval "$(pyenv init -)"
-PS1="\[\e[1;34m\][\$(date +'%k:%M:%S')]\[\e[00m\]\[\e[32m\][\$(pwd)]\[\e[00m\]🤔\n\\e[00m\]Vim起動しろ\\n\[\e[00m\]\u$ "
+PS1="\[\e[1;34m\][\$(date +'%k:%M:%S')]\[\e[00m\]\[\e[32m\][\$(pwd)]\[\e[00m\]🤔💩\n\\e[00m\]Vim起動しろ\\n\[\e[00m\]\u$ "
 export PATH="$HOME/.rbenv/bin:$PATH"
 export PATH="$HOME/.rbenv/bin:$PATH"
 eval "$(rbenv init -)"
